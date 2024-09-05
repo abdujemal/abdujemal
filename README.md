@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Abdu" />
  </a>
  <a href="https://www.linkedin.com/in/abdurahman-jemal-00192b2b1/" target="_blank">
-  <img width="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdu </a>
+  <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdu" />
+  </a>
 </p>
 <br />
 
