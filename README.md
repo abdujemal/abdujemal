@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Abdu" />
  </a>
  <a href="https://www.linkedin.com/in/abdurahman-jemal-00192b2b1/" target="_blank">
-  <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdu" />
+  <img width="113" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdu" />
   </a>
 </p>
 <br />
@@ -157,3 +157,9 @@
 
 
 ![Abdurahman Jemal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdujemal&custom_title=Abdurahman%20Jemal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br/>
+
+<br/>
+<hr/>
+<br/>
+<img src="https://raw.githubusercontent.com/abdujemal/abdujemal/output/snake.svg" alt="Snake animation" />
