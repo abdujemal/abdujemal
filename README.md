@@ -6,6 +6,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
+<div align="center">
+  <img height="500" src="https://static.vecteezy.com/system/resources/thumbnails/002/214/642/small_2x/web-designer-and-programmer-free-vector.jpg"  />
+</div>
+<br/>
+<br/>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
