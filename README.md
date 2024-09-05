@@ -43,7 +43,9 @@
  # About me
  
 <p>
- 
+
+ 🔭 &emsp; I’m currently working as an [Upwork Freelancer](https://www.upwork.com/freelancers/~01e3d752703100a557) <br/><br/> 
+ 📚 &emsp; I graduated from 12-month ALX Software Engineering <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: <a href="mailto:abdu1994jemal@gmail.com"> abdu1994jemal@gmail.com <br/><br/>
