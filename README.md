@@ -30,7 +30,7 @@
  </a>
  <a href="https://www.linkedin.com/in/abdurahman-jemal-00192b2b1/" target="_blank">
   <img width="113" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdu" />
-  </a>
+ </a>
 </p>
 <br />
 
@@ -38,8 +38,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+ 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: <a href="mailto:abdu1994jemal@gmail.com"> abdu1994jemal@gmail.com <br/><br/>
